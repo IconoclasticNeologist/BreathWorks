@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 08904c07de2e32a4180d9d4ba3dd7ec5
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bamboo Leaves
+    second: {fileID: 2100000, guid: 0975b8769d7f8b04698ec2425e3b05c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bamboo Stem
+    second: {fileID: 2100000, guid: 473a656ce10d5824fb302b4fbaf6c047, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Metal
+    second: {fileID: 2100000, guid: 9f0f31869ab9a0a478105d8f32a097b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Stone
+    second: {fileID: 2100000, guid: 245971de1abfe1541b5c26f84dfae4db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brushed Chrome 1
+    second: {fileID: 2100000, guid: 1da8aef9dbba503469bf2c0c8b6a8a0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brushed Chrome 2
+    second: {fileID: 2100000, guid: c4242b9e2a0f4ac499deba3462eab8c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling LED
+    second: {fileID: 2100000, guid: dbb6ddcdd20b97444a38d2bd37bab531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling Wall
+    second: {fileID: 2100000, guid: 646b865a04f206f41ad904279cf4f652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cement
+    second: {fileID: 2100000, guid: 8db90e1899d68444399334e72f3678bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair Cushion
+    second: {fileID: 2100000, guid: b79687bb2e2839c488cc16156325dd26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chaise Metal
+    second: {fileID: 2100000, guid: 1b8ccce66e942f14caec5851e50db3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 9b40b52213372c748ac61685726f7a66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloth
+    second: {fileID: 2100000, guid: 4aed29dab9848b74ca666f23b3d11e3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator Metal
+    second: {fileID: 2100000, guid: 7384f5ac544639a4b9246c28823eb853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator Sign
+    second: {fileID: 2100000, guid: 0c13d4b78f1fb7640a11a97c31499c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fireplace LED
+    second: {fileID: 2100000, guid: 73f0ba3ead29cfe44b22bbd855a18d74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor LED
+    second: {fileID: 2100000, guid: 325bbf62269069f4f87e7e47ed4e4851, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor LED 2
+    second: {fileID: 2100000, guid: 54a31f0880589b442a32373dd9b78b55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor Wood
+    second: {fileID: 2100000, guid: 0c93499179bda4d4d9a0db1006d835f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fountain Decor
+    second: {fileID: 2100000, guid: 193dc68c8444a434ebd7c1829f535e6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fountain LED
+    second: {fileID: 2100000, guid: 6f55dc6e3f30deb4eb0b00d2cbd85d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fountain Tiles
+    second: {fileID: 2100000, guid: 1dbd082d33b630f46ba54c8f63b712ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: 771d5da6fe802a2478ca6239d2e099a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass 2
+    second: {fileID: 2100000, guid: b21e44720b4a9434bbf327177bb896b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves
+    second: {fileID: 2100000, guid: 1795efdb04af9594f90f0017bc64f449, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Long Table Wood
+    second: {fileID: 2100000, guid: 41d055df9233a1f4e8b95cc7569d1d14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalFraming
+    second: {fileID: 2100000, guid: 23ceb0a324d0a604992dd48c27a0434e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outdoor Chair Cushion
+    second: {fileID: 2100000, guid: d2914a1d67d9b7948a9c57a4ee896613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outdoor Floor
+    second: {fileID: 2100000, guid: 68ce21856cbfaaa4ba1d87cad3b6e6da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outdoor Furniture Cement
+    second: {fileID: 2100000, guid: 9d258c565fcd55e4d93006b566d42e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outdoor Table
+    second: {fileID: 2100000, guid: d1a29be99b823e74db3d5ed96d4f4646, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outdoor Wood Furniture
+    second: {fileID: 2100000, guid: a37e7ad7314673e49a433aa06ddb1380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outside Wall
+    second: {fileID: 2100000, guid: f67785b825d5db94eb22ded9457c002c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillow
+    second: {fileID: 2100000, guid: 65d7b0b596a9396489209102aba3788d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plant 01
+    second: {fileID: 2100000, guid: 24d3f41fb40dc2547a69a5b74cbc7301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plant 02
+    second: {fileID: 2100000, guid: 0667f15681b946d468303b289f637889, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plant 03
+    second: {fileID: 2100000, guid: 3a6a926309950f54ca7dae39ac88652e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof Concrete
+    second: {fileID: 2100000, guid: a8b5db18c804e2b4f9ccd3c112b5ca99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof Metal
+    second: {fileID: 2100000, guid: f1dbecd1065a10041ade94771b0d887e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rose Red
+    second: {fileID: 2100000, guid: f6c78a388fe8b0a4dbb5b9bccab33358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soil
+    second: {fileID: 2100000, guid: ff06f58f9650bbc42a5a299deab06104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stem
+    second: {fileID: 2100000, guid: 3544f03e20b40a544924e7bbd0539388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stepping Stone
+    second: {fileID: 2100000, guid: dec88d8b25c8414469120eee7e1db16c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV Frame
+    second: {fileID: 2100000, guid: 77237923fc0c59d43bfc960eeeb79b7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV Screen
+    second: {fileID: 2100000, guid: b79df070c3bb1ee40a157b8540532b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table Chair Wood
+    second: {fileID: 2100000, guid: 085130b5d0c7be04f87e146ef739c695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vase
+    second: {fileID: 2100000, guid: 0cb786e946d7b4f4eaf79d96cd20f34c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: 9c5346728622aef469cec73a1000bc3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window Framing
+    second: {fileID: 2100000, guid: b812b50f725332944b95c2eb7c7787ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window Glass
+    second: {fileID: 2100000, guid: 60c17c20f2391dd41be9a0a709b3aca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Frame
+    second: {fileID: 2100000, guid: f7614243bb67b1c49bf1d1b5efc40016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Wall
+    second: {fileID: 2100000, guid: 2ac6e3d4cd9c110409fda2f92d470226, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Black Stone_C
+    second: {fileID: 2800000, guid: 5d1ef0fba26413f41bd23558d49de501, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ceiling Wall_C
+    second: {fileID: 2800000, guid: 1abc44e9645f9e8438a86d9fa0a15d6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cement_C
+    second: {fileID: 2800000, guid: 04c8e83aea76a514493d4a6814e296f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Chair Cushion_C
+    second: {fileID: 2800000, guid: 265c09bf39a14ee41b1dcf642c8eb7b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cloth_C
+    second: {fileID: 2800000, guid: 6b4c12bbe9f22e54c91a27a51b3d43a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Elevator Metal_C
+    second: {fileID: 2800000, guid: 0091b25538d1b504a8e30d67008ac16a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ElevatorScreen_C
+    second: {fileID: 2800000, guid: 912d4168646864a4382f2083b654b74a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor Wood_C
+    second: {fileID: 2800000, guid: 5b1e7fd44a8b6694fb274b953bc67321, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fountain Tiles_C
+    second: {fileID: 2800000, guid: 0947882ae555b104a964b8b80def9728, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grass_C
+    second: {fileID: 2800000, guid: 3e35625d4d0b42a489d85a31d3b470e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leaf1_C
+    second: {fileID: 2800000, guid: cf508a0fad247b74fbe16ac96177ccf2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leaf2_C
+    second: {fileID: 2800000, guid: 996c64570007a154581007ac486d4be9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Long Table Wood_C
+    second: {fileID: 2800000, guid: 6cb1a0a99f0f6cb4d8c4c5aaf0728ba0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalFraming_C
+    second: {fileID: 2800000, guid: 2a1c215f68d03584fa76db9034e1f5ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Outdoor Chair Cushion_C
+    second: {fileID: 2800000, guid: c1dcb886e663952469081291c7313a77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Outdoor Floor_C
+    second: {fileID: 2800000, guid: 8256f8d2a06fd924e94c11d9e12ce0a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Outdoor Furniture Cement_C
+    second: {fileID: 2800000, guid: a0c8be5207996014685c25578666eab5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Outdoor Table_C
+    second: {fileID: 2800000, guid: 3f9d5e155a6610a4ab568e83f89d77e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Outdoor Wood Furniture_C
+    second: {fileID: 2800000, guid: c67d2cc3a60efa54ca4b6d0ac2f3c0fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Outside Wall_C
+    second: {fileID: 2800000, guid: c4cfc7aa338dcb74fbb0fd8be20bf099, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pillow_C
+    second: {fileID: 2800000, guid: ac0e434e579c89345b91c17e22bb2aff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roof Concrete_C
+    second: {fileID: 2800000, guid: 49020baa13dc62b4a8ddd86d122f2e71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roof Metal_C
+    second: {fileID: 2800000, guid: 137211791edb22a40b57379dff9d7739, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Soil_C
+    second: {fileID: 2800000, guid: a7f9513f34a846b43977ff9f1d7e93ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stepping Stone_C
+    second: {fileID: 2800000, guid: 22dbabf6d61e4ab4b93af4d06db4a7cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Table Chair Wood_C
+    second: {fileID: 2800000, guid: 78f9ae4bc4d3e124e81282d75237ff14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window Framing_C
+    second: {fileID: 2800000, guid: 3d4e69207c955004dba9bb42f6c56326, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood Frame_C
+    second: {fileID: 2800000, guid: 2efb4d11cf24c8842b55c4eed34b79ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood Wall_C
+    second: {fileID: 2800000, guid: 294bfc0c0f174144bb1a641a3ba0b17b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete_fine_polished_bump
+    second: {fileID: 2800000, guid: 2980775ab9860534ab87ab8eec89ca3c, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
